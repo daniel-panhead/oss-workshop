@@ -35,9 +35,10 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 | Heaton Chan      | [GitHub](https://github.com/codingonapotato) and @hellstone_chan on Instagram B) | To give back to the community and build some skills!                                                                                 |
 | Bruce Blore      | [GitLab](https://gitlab.com/0100001001000010)                                    | Help with getting a job, to contribute to programs that I find helpful, and to help me with my skills of reading other people's code |
 | Krusna Balar     | [GitHub](https://github.com/krusnabalar)                                         | To learn working with bigger repos                                                                                                   |
-| Alizah Irfan     |                                                                                  | Contribute to interesting projects :)                                                                                                |
+| Alizah Irfan     |                                                                                  | Contribute to interesting projects :))))                                                                                             |
 | Max Landon       | [GitHub](https://github.com/Yotter)                                              | I'd like to have the skills to contribute to projects that interest me                                                               |
-| Ram Mashruwala   | [GitHub](https://github.com/ram-mashruwala)                                      | To build my skills to work and give back to my community                                                                                |
+| Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali)                                     | To build my skills and give back to the community                                                                                    |
+| Ram Mashruwala   | [GitHub](https://github.com/ram-mashruwala)                                      | To build my skills to work and give back to my community                                                                             |
 
 ## Resources
 

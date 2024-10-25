@@ -27,7 +27,8 @@ A hands-on introduction to open source, with a focus on contributing to Hacktobe
 Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_tables). Add your name to this table with a PR!
 
 | Name             | Link (GitHub, portfolio, Instagram, etc.)                                        | Why do you want to learn how to contribute to open source?                                                                           |
-| ---------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Jenny Hua        | [GitHub](https://github.com/jennyyhua) and @jennyyhua on Instagram       | To learn how to contribute to projects I'm passionate about.
+
 | Michael DeMarco  | [GitHub](https://github.com/michaelfromyeg) and @michaelfromyeg elsewhere        | To give back to the developer community!                                                                                             |
 | Anna Takeuchi    | [Website](https://annatakeuchi.dev) and [GitHub](https://github.com/annatake)    | To learn how to navigate a large code base                                                                                           |
 | Quinn Tao        | [GitHub](https://github.com/t-quinn-t/oss-workshop)                              | for fun                                                                                                                              |

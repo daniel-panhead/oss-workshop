@@ -37,7 +37,7 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 | Krusna Balar     | [GitHub](https://github.com/krusnabalar)                                         | To learn working with bigger repos                                                                                                   |
 | Alizah Irfan     |                                                                                  | Contribute to interesting projects :)                                                                                                |
 | Max Landon       | [GitHub](https://github.com/Yotter)                                              | I'd like to have the skills to contribute to projects that interest me                                                               |
-| Ram Mashruwala   | [GitHub](https://github.com/ram-mashruwala)                                      | To build my skills to work for Lockheed Martin and make the US military great again                                                                                |
+| Ram Mashruwala   | [GitHub](https://github.com/ram-mashruwala)                                      | To build my skills to work and give back to my community                                                                                |
 
 ## Resources
 

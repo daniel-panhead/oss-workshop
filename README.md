@@ -38,7 +38,7 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 | Alizah Irfan     |                                                                                  | Contribute to interesting projects :)                                                                                                |
 | Max Landon       | [GitHub](https://github.com/Yotter)                                              | I'd like to have the skills to contribute to projects that interest me                                                               |
 | Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali)                                     | To build my skills and give back to the community                                                                  |
-| Fredrik Pettit        | [GitHub](https://github.com/freddyp3/oss-workshop)                              |I'd like to have the skills to contribute to projects that interest me |
+| Alfie        | [GitHub](https://github.com/freddyp3/oss-workshop) [Youtube](https://www.youtube.com/@alfie369k)                            |I'd like to have the skills to contribute to projects that interest me |
 
 ## Resources
 

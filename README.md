@@ -38,6 +38,7 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 | Alizah Irfan     |                                                                                  | Contribute to interesting projects :)                                                                                                |
 | Max Landon       | [GitHub](https://github.com/Yotter)                                              | I'd like to have the skills to contribute to projects that interest me                                                               |
 | Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali)                                     | To build my skills and give back to the community                                                                                    |
+| Amelie Tam       | [GitHub](https://github.com/ameliejtam) and @amelietam_ on Instagram             | I'm here to remind you that personal hygiene is important |
 
 ## Resources
 

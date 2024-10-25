@@ -39,6 +39,8 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 | Max Landon       | [GitHub](https://github.com/Yotter)                                              | I'd like to have the skills to contribute to projects that interest me                                                               |
 | Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali)                                     | To build my skills and give back to the community                                                                                    |
 
+| Claire Zhang     | [GitHub](https://github.com/bear383) and @claire._z! | Always looking to learn something new! 
+
 ## Resources
 
 - [Good First Issue](https://goodfirstissues.com)

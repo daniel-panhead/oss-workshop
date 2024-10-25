@@ -37,7 +37,8 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 | Krusna Balar     | [GitHub](https://github.com/krusnabalar)                                         | To learn working with bigger repos                                                                                                   |
 | Alizah Irfan     |                                                                                  | Contribute to interesting projects :)                                                                                                |
 | Max Landon       | [GitHub](https://github.com/Yotter)                                              | I'd like to have the skills to contribute to projects that interest me                                                               |
-| Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali)                                     | To build my skills and give back to the community                                                                                    |
+| Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali)                                     | To build my skills and give back to the community                                                                  |
+| Fredrik Pettit        | [GitHub](https://github.com/freddyp3/oss-workshop)                              |I'd like to have the skills to contribute to projects that interest me |
 
 ## Resources
 

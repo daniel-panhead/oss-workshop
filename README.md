@@ -46,3 +46,6 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 - [opensource.guide](https://opensource.guide/how-to-contribute)
 - [Hacktoberfest](https://hacktoberfest.com)
 - [MLH Fellowship](https://fellowship.mlh.io)
+
+|Kuan SAY SHIIIII|
+
